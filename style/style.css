@@ -1,0 +1,22 @@
+body
+{
+font-family:calibri;
+}
+#main-container
+{
+width:800px;
+min-height:500px;
+border: 1px solid black;
+margin:auto;
+background-color:#FFF0F5;
+}
+#content
+{
+width:250px;
+height:150px;
+border:1px solid gray;
+box-shadow:1px 1px 1px gray;
+background-color:white;
+margin:auto;
+margin-top:150px;
+}
